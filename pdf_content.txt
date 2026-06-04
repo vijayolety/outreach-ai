@@ -1,0 +1,241 @@
+Screen 1 of 10 · Home 
+Entry point — start fast or resume last campaign 
+No dashboard on first load. Primary action is immediate. Active campaign cards show at-a-glance 
+progress so returning users jump straight back in. Gmail API status visible from the top bar. 
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 2 of 10 · Lead upload + validation 
+Upload leads — errors fixed before AI touches anything 
+Dedicated validation screen with inline error table. Supported fields checklist anchors the user on what 
+data the system needs. Fix errors or continue with valid leads only. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 3 of 10 · Campaign setup 
+Sender, tone, CTA, follow-ups — keep it tight 
+Tone and CTA type are the two controls that most change output quality with minimal friction. Business 
+type and location are auto-detected from the lead list and editable. Nothing else needed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 4 of 10 · Email review + trust layer ← most critical screen 
+Left sidebar to browse all leads · Main panel to review + edit · "Why this email?" on every 
+draft 
+The sidebar shows all leads with a per-lead status dot (green = ready, amber = needs review, red = 
+failed). Clicking any lead loads their email in the main workspace. Founders approve all at once; 
+operators review one-by-one. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 5 of 10 · Pre-send confirmation 
+Final gate before emails go out — no surprises 
+Summary of what's about to happen. Rate limit, schedule, sender identity, follow-up sequence all visible. 
+The kill switch is also present here. One clear launch button. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 6 of 10 · Live send progress 
+Real-time feed — not a spinner 
+Sent / pending / failed counts with a live email-by-email feed. Progress bar with estimated time. Retry 
+status visible inline. Pause is always one click away.​
+​
+Need a fix. Needs to be a part of the Monitor Page. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+Screen 7 of 10 · Campaign monitor 
+30-second daily check-in — hot leads first, funnel second 
+Designed to answer "did anything happen?" in one glance. Notification banner surfaces hot leads. Stats 
+row shows KPIs. Funnel and lead list side by side. Export CSV always accessible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+ 
+Screen 8 of 10 · All leads table 
+Full lead list — filterable by status, with follow-up due date column 
+Filter tabs (All / Hot / Warm / Cold) let operators focus. Follow-up due date column tells them what's 
+imminent. "Manual ping" on warm leads gives operators a direct action alongside the automated 
+sequence. Export always available. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+ 
+ 
+Screen 9 of 10 · Hot lead detail 
+Reply thread + AI-drafted response + activity timeline + next action 
+Full conversation thread on the left. AI-drafted reply pre-loaded and editable on the right — "Why this 
+draft?" explainability included. Activity timeline shows the full lead journey. Attach booking link in one click. 
+Status labels let the operator triage and close fast. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+---PAGE---
+
+ 
+ 
+ 
+Screen 10 of 10 · Settings 
+Gmail OAuth, send throttle, follow-up toggles, session security 
+Gemini's addition — this deserves its own screen. The max emails/hour slider is a spam-risk control. 
+Follow-up toggles let users disable sequences globally. Session-only auth note addresses the "no 
+credential storage" security requirement from the BRD. 
+ 

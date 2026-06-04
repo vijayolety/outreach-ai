@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: outreach_ai_postgres
+    environment:
+      POSTGRES_USER: outreach_ai
+      POSTGRES_PASSWORD: outreach_ai
+      POSTGRES_DB: outreach_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - outreach_ai_pgdata:/var/lib/postgresql/data
+
+volumes:
+  outreach_ai_pgdata:
+
