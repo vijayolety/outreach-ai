@@ -1,4 +1,4 @@
-# Outreach AI 🚀
+# AI-Powered Sales Outreach: Turn Leads into Qualified Conversations 🚀
 
 A lean, modular, high-impact internal email outreach and hot-lead triage platform. Outreach AI automates the workflow of uploading targeted business lead lists, generating context-aware personalized drafts using modern AI models, sending sequence emails with built-in open-tracking pixels, and running background pollers to sync IMAP inboxes for reply tracking.
 
